@@ -10,8 +10,6 @@
 
 
         native DiscordHook_Create(const hookname[], const url[]);
-        native DiscordHook_GetFreeSlot();
-        native DiscordHook_Find(const hookname[]);
 
         native DiscordEmbed_Clear();
         native Discord_Success(E_HTTP_STATUS:status);
