@@ -93,21 +93,6 @@ stock DiscordEmbed_Send(const hookname[], const callback[] = "");
 
 ---
 
-## 🎨 Exemplos de Cores
-
-```pawn
-#define DISCORD_COLOR_RED      0xFF0000
-#define DISCORD_COLOR_GREEN    0x00FF00
-#define DISCORD_COLOR_BLUE     0x3498DB
-#define DISCORD_COLOR_YELLOW   0xFFFF00
-#define DISCORD_COLOR_ORANGE   0xE67E22
-#define DISCORD_COLOR_PURPLE   0x9B59B6
-#define DISCORD_COLOR_WHITE    0xFFFFFF
-#define DISCORD_COLOR_BLACK    0x000000
-```
-
----
-
 ## 🧪 Exemplo de Uso
 
 ```pawn
