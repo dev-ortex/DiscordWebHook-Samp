@@ -191,22 +191,6 @@ stock Discord_LogBan(playerid, adminid, const reason[])
 
 ---
 
-## 📌 Discord Embed Limits
-
-| Item                   | Limit           |
-| ---------------------- | --------------- |
-| Title                  | 256 characters  |
-| Description            | 4096 characters |
-| Fields per embed       | 25              |
-| Field name             | 256 characters  |
-| Field value            | 1024 characters |
-| Footer text            | 2048 characters |
-| Author name            | 256 characters  |
-| Embeds per message     | 10              |
-| Total embed characters | 6000            |
-
----
-
 ## ⚠️ Notes
 
 > [!WARNING]
