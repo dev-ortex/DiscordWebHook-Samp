@@ -122,7 +122,7 @@ CMD:testembed(playerid)
     DiscordEmbed_SetColor(0x3498DB);
 
     DiscordEmbed_SetAuthor(
-        "Illusion Roleplay",
+        "Server Roleplay",
         "https://discord.gg/seuservidor",
         "https://i.imgur.com/exemplo.png"
     );
@@ -130,14 +130,14 @@ CMD:testembed(playerid)
     DiscordEmbed_SetThumbnail("https://i.imgur.com/exemplo.png");
     DiscordEmbed_SetImage("https://i.imgur.com/exemplo.png");
 
-    Discord_AddField("Servidor", "Illusion Roleplay", true);
+    Discord_AddField("Servidor", "Server Roleplay", true);
     Discord_AddField("Status", "Online", true);
     Discord_AddField("Jogadores", "15/100", true);
     Discord_AddField("Versão", "0.1 Beta", true);
     Discord_AddField("Mensagem", "O sistema de logs do Discord está funcionando corretamente.", false);
 
     DiscordEmbed_SetFooter(
-        "Sistema de Logs • Illusion Roleplay",
+        "Sistema de Logs • Server Roleplay",
         "https://i.imgur.com/exemplo.png"
     );
 
