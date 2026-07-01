@@ -222,5 +222,5 @@ https://github.com/user-attachments/assets/f2e69247-5c85-449b-88d9-ae2392ca3c20
 
 ## 🌐 Other Languages
 
-* [Português](https://github.com/dev-ortex/discord-webhook/blob/main/README-pt.md)
-* [English](https://github.com/dev-ortex/discord-webhook/blob/main/README.md)
+* [Português](https://github.com/dev-ortex/DiscordWebHook-Samp/blob/main/README-pt.md)
+* [English](https://github.com/dev-ortex/DiscordWebHook-Samp/blob/main/README.md)

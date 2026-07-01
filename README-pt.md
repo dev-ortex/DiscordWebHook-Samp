@@ -237,5 +237,5 @@ https://github.com/user-attachments/assets/aff4fe48-9f1a-479a-b8de-6dbe393138d5
 
 ## 🌐 Outros Idiomas
 
-* [Português](https://github.com/dev-ortex/discord-webhook/blob/main/README-pt.md)
-* [English](https://github.com/dev-ortex/discord-webhook/blob/main/README.md)
+* [Português](https://github.com/dev-ortex/DiscordWebHook-Samp/blob/main/README-pt.md)
+* [English](https://github.com/dev-ortex/DiscordWebHook-Samp/blob/main/README.md)
