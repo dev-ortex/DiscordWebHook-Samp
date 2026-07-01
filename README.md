@@ -141,9 +141,19 @@ CMD:testembed(playerid)
         "https://i.imgur.com/example.png"
     );
 
-    DiscordEmbed_Send("logs");
+    DiscordEmbed_Send("logs", "OnDiscordResponse");
 
     SendClientMessage(playerid, -1, "[Discord] Embed sent successfully.");
+    return 1;
+}
+
+forward OnDiscordResponse(Request:id, E_HTTP_STATUS:status, Node:node);
+public OnDiscordResponse(Request:id, E_HTTP_STATUS:status, Node:node)
+{
+    if(Discord_Success(status))
+        return printf("[Discord] Embed sent successfully. Status: %d", _:status);
+    
+    printf("[Discord] Failed to send embed. Status: %d", _:status);
     return 1;
 }
 ```
